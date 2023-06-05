@@ -1,0 +1,23 @@
+first times being run after intro of BT to attack
+
+1. TS won (fuel)
+2. TS won (fuel)
+3. dumb tank won (fuel)
+4. dumb tank won (fuel)
+5. TS won (fuel)
+6. TS won (fuel)
+7. dumb tank won (fuel)
+8. TS won (fuel)
+
+
+
+
+
+should keep attacking bases if below stats?
+should stop attacking base if health goes down
+lesser requirements for attacking bases
+reduce speed on low fuel? increase speed on sight?
+run away after 1/2 shots?
+find a way to check how many times been hit?
+should go for pickups in line of sight OVER enemy?
+if safe for amount of time, go for pick ups?
